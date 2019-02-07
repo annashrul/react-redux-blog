@@ -1,0 +1,4 @@
+-material css
+-react-router-dom	: npm install react-router
+-axios 			: npm install axios
+-redux 			: npm install redux react-redux
